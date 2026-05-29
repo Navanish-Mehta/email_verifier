@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage folder
+coverage/
+
+# Build folders
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+.tmp/
+.temp/
+
+# Package lock (optional)
+# package-lock.json
+
+# Render / deployment
+.render/
+
+# Test cache
+.jest/
+
+# Misc
+*.swp
